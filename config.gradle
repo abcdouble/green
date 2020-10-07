@@ -1,0 +1,8 @@
+ext{
+
+    /**
+     * true represent component-based & false represent integration-based
+     */
+    debug = true
+
+}

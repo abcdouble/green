@@ -1,0 +1,2 @@
+include ':hot'
+include ':app'
